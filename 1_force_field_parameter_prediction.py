@@ -1,11 +1,12 @@
-from src.data import GraphDataset
-from torch_geometric.loader import DataLoader
+import wandb
+from src.model import GATNet
+from src.data import GraphDataset, GraphDataModule
+import pytorch_lightning as pl
 
-# load dataset into dataloader
+#wandb.init(project="AI4Science_hackathon")
+model = GATNet()
 dataset = GraphDataset(root='./dataset/')
-loader = DataLoader(dataset, batch_size=32, shuffle=True, num_workers=64)
 
-for batch in loader:
-    print(batch)
-    print(batch[0])
-    break
+dm = GraphDataModule(dataset)
+trainer = pl.Trainer(max_epochs=200, accelerator="auto")
+trainer.fit(model, datamodule=dm)
