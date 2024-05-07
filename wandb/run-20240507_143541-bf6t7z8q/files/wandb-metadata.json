@@ -1,0 +1,359 @@
+{
+    "os": "Linux-4.18.0-305.57.1.el8_4.x86_64-x86_64-with-glibc2.28",
+    "python": "3.12.3",
+    "heartbeatAt": "2024-05-07T19:35:47.010600",
+    "startedAt": "2024-05-07T19:35:41.501275",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/Ray16/ai-sci-hackathon-2024-molecular-nexus.git",
+        "commit": "f1a7e768fee4f4fe889ad0815b3589504fd75b00"
+    },
+    "email": "rzhu16@uchicago.com",
+    "root": "/project/dfreedman/hackathon/molecular_nexus/ai-sci-hackathon-2024-molecular-nexus",
+    "host": "midway3-login3.rcc.local",
+    "username": "rzhu16",
+    "executable": "/project/dfreedman/hackathon/molecular_nexus/conda_env/AI4Science_hackathon/bin/python",
+    "cpu_count": 32,
+    "cpu_count_logical": 64,
+    "cpu_freq": {
+        "current": 3.5998437499999967,
+        "min": 800.0,
+        "max": 3600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.599,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        },
+        {
+            "current": 3.6,
+            "min": 800.0,
+            "max": 3600.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 311.56654357910156,
+            "used": 13.7440185546875
+        }
+    },
+    "memory": {
+        "total": 251.06603240966797
+    }
+}

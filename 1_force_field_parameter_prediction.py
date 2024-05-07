@@ -1,9 +1,9 @@
-import wandb
 from src.model import GATNet
 from src.data import GraphDataset, GraphDataModule
 import pytorch_lightning as pl
 
-#wandb.init(project="AI4Science_hackathon")
+
+wandb_logger = WandbLogger(project="AI4Science_hackathon")
 model = GATNet()
 dataset = GraphDataset(root='./dataset/')
 
