@@ -116,8 +116,8 @@ def compare_permutation(property_name:str, result_dict, ref_graph, permutation_d
 def main():
     # You won't necessarily have this data available, here we use the training data to show you
     ref_dict = helper.load_data_from_file("data.json")
-
-
+    print(ref_dict)
+    break
     result_dict = helper.load_data_from_file("validation_example.json")
     # In a real case, we would not add random results.
     # Instead you would fill it with your results and then write it to disk to hand it to us.

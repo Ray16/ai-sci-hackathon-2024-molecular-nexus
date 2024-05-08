@@ -1,6 +1,6 @@
 import torch
 import pytorch_lightning as pl
-from torch_geometric.nn import GCNConv, GATConv
+from torch_geometric.nn import FastRGCNConv, GATConv
 
 class GATNet(pl.LightningModule):
     def __init__(self,out_channels_l1,n_head_l1,out_channels_l2,n_head_l2,learning_rate):
@@ -40,12 +40,17 @@ class GATNet(pl.LightningModule):
         return optimizer
     
 
-class GCNModel(pl.LightningModule):
-    def __init__(self):
+class FastRGCNNet(pl.LightningModule):
+    def __init__(self,out_channels_l1,num_relations_l1,out_channels_l2,num_relations_l2,learning_rate):
         super().__init__()
-        self.conv1 = GCNConv(7, 16)
-        self.conv2 = GCNConv(16, 32)
-        self.fc = torch.nn.Linear(32, 4)
+        self.out_channels_l1 = out_channels_l1
+        self.num_relations_l1 = num_relations_l1
+        self.out_channels_l2 = out_channels_l2
+        self.num_relations_l2 = num_relations_l2
+        self.learning_rate = learning_rate
+        self.conv1 = FastRGCNConv(7, self.out_channels_l1,self.num_relations_l1)
+        self.conv2 = FastRGCNConv(self.out_channels_l1, self.out_channels_l2,self.num_relations_l2)
+        self.fc = torch.nn.Linear(self.out_channels_l2, 4)
 
     def forward(self, data):
         x, edge_index, edge_attr = data.x, data.edge_index, data.edge_attr
@@ -69,5 +74,5 @@ class GCNModel(pl.LightningModule):
         return loss
 
     def configure_optimizers(self):
-        optimizer = torch.optim.Adam(self.parameters(), lr=5e-3, weight_decay=5e-4)
+        optimizer = torch.optim.Adam(self.parameters(), lr=self.learning_rate, weight_decay=5e-4)
         return optimizer
