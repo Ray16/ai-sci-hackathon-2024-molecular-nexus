@@ -1,8 +1,8 @@
 # Molecular Nexus
-## Accurate force-field parameterization using graph neural network
+### Accurate force-field parameterization using graph neural network
 
 Graph attention convolutional neural network that enables accurate parameterization of OPLS (Optimized Potentials for Liquid Simulations) force field.
 
 Authors: Ray Zhu, Kha Trih, Oliver Tang, Jaehee Park
 
-License: is released under the MIT License
+License: Molecular Nexus is released under the MIT License
