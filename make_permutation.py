@@ -4,7 +4,7 @@ import numpy as np
 import copy
 import hashlib
 
-from helper import load_data_from_file, write_data_to_json_file
+from archive.helper import load_data_from_file, write_data_to_json_file
 
 
 def remove_param(graph):

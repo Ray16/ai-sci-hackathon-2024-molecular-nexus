@@ -1,4 +1,5 @@
 import torch
+import pandas as pd
 import pytorch_lightning as pl
 from torch_geometric.data import InMemoryDataset
 from torch_geometric.loader import DataLoader
@@ -10,7 +11,7 @@ class GraphDataset(InMemoryDataset):
         self.data_list = data_list
         super().__init__(root, transform, pre_transform)
         self.data, self.slices = torch.load(self.processed_paths[0])
-
+    
     @property
     def processed_file_names(self):
         return ['graph_data.pt']
@@ -25,10 +26,49 @@ class GraphDataModule(pl.LightningDataModule):
         super().__init__()
         self.dataset = dataset
         self.batch_size = batch_size
-        self.train_dataset, self.val_dataset = random_split(dataset,[0.8,0.2])
-    
+        self.train_dataset, self.val_dataset, self.test_dataset = random_split(self.dataset,[0.8,0.1,0.1], generator = torch.Generator().manual_seed(42))
+    ### old - normalization
+    '''
+    def prepare_data(self):
+        # split dataset with train, val and test set   
+        self.train_dataset, self.val_dataset, self.test_dataset = random_split(self.dataset,[0.8,0.1,0.1], generator = torch.Generator().manual_seed(42))
+
+        # get mean and std for target y in training set for normalization
+        train_y = torch.cat([graph.y for graph in self.train_dataset])
+        self.train_y_mean = train_y.mean(dim=0)
+        self.train_y_std = train_y.std(dim=0)
+        # save normalization statistics
+        norm_stat = pd.DataFrame({'mean':train_y.mean(dim=0),'std':train_y.std(dim=0)})
+        norm_stat.to_csv('norm_stat.csv',index=False)
+        # normalize target y in training set
+        self.train_dataset.y = (train_y - self.train_y_mean) / self.train_y_std
+
+        # normalize target y in validation set
+        val_y = torch.cat([graph.y for graph in self.val_dataset])
+        self.val_dataset.y = (val_y - self.train_y_mean) / self.train_y_std
+
+        # normalize target y in test set
+        test_y = torch.cat([graph.y for graph in self.test_dataset])
+        self.test_dataset.y = (test_y - self.train_y_mean) / self.train_y_std
+    '''
     def train_dataloader(self):
-        return DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True)
+        train_loader = DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+        torch.save(train_loader, './dataloader/train_dataloader.pth')
+        return train_loader
 
     def val_dataloader(self):
-        return DataLoader(self.val_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True)
+        val_loader = DataLoader(self.val_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+        torch.save(val_loader, './dataloader/val_dataloader.pth')
+        return DataLoader(self.val_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+    
+    def predict_dataloader(self):
+        test_loader = DataLoader(self.test_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+        torch.save(test_loader, './dataloader/test_dataloader.pth')
+        return test_loader
+    
+    #def test_dataloader(self):
+    #    return DataLoader(self.test_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+
+    def collate_fn(self, batch):
+        batch = InMemoryDataset.collate(batch)
+        return batch

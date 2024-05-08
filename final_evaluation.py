@@ -1,6 +1,6 @@
 import networkx as nx
 import numpy as np
-import helper
+import archive.helper as helper
 import hashlib
 import copy
 import json
