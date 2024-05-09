@@ -5,8 +5,11 @@ CGConvNet that enables accurate parameterization of OPLS (Optimized Potentials f
 
 #### Authors
 Ray Zhu
+
 Kha Trinh
+
 Oliver Tang
+
 Jaehee Park
 
 #### License
