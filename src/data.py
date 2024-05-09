@@ -72,3 +72,32 @@ class GraphDataModule(pl.LightningDataModule):
     def collate_fn(self, batch):
         batch = InMemoryDataset.collate(batch)
         return batch
+    
+# pytorch lightning data module
+class PredGraphDataModule(pl.LightningDataModule):
+    def __init__(self, dataset, batch_size: int = 32):
+        super().__init__()
+        self.dataset = dataset
+        self.batch_size = batch_size
+    '''
+    def train_dataloader(self):
+        train_loader = DataLoader(self.train_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+        torch.save(train_loader, './dataloader/train_dataloader.pth')
+        return train_loader
+
+    def val_dataloader(self):
+        val_loader = DataLoader(self.val_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+        torch.save(val_loader, './dataloader/val_dataloader.pth')
+        return DataLoader(self.val_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+    '''
+    def predict_dataloader(self):
+        dataloader = DataLoader(self.dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+        #torch.save(dataloader, './final_evaluation_dataloader/test_dataloader.pth')
+        return dataloader
+    
+    #def test_dataloader(self):
+    #    return DataLoader(self.test_dataset, batch_size=self.batch_size, shuffle=False, num_workers=2,pin_memory=True,collate_fn=self.collate_fn)
+
+    def collate_fn(self, batch):
+        batch = InMemoryDataset.collate(batch)
+        return batch

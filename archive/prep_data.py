@@ -8,7 +8,7 @@ import numpy as np
 import bigsmiles_gen
 
 # from util import get_smiles, SEED
-import archive.helper as helper
+import helper as helper
 import make_permutation
 
 def make_graph_from_smiles(smi):

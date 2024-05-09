@@ -1,0 +1,5800 @@
+{
+  "92eb98c20da89676c961": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.020069122314453,
+          "charge": -0.02842632681131363,
+          "sigma": 0.3421950340270996,
+          "epsilon": 0.26629096269607544
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.02814769744873,
+          "charge": -0.05416183918714523,
+          "sigma": 0.33999013900756836,
+          "epsilon": 0.28053051233291626
+        },
+        "id": 2
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0026963949203491,
+          "charge": 0.05182807892560959,
+          "sigma": 0.25492599606513977,
+          "epsilon": 0.11500529944896698
+        },
+        "id": 3
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0042533874511719,
+          "charge": 0.058477453887462616,
+          "sigma": 0.25552690029144287,
+          "epsilon": 0.11136162281036377
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9982316493988037,
+          "charge": 0.09629111737012863,
+          "sigma": 0.25281456112861633,
+          "epsilon": 0.12199065089225769
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9970264434814453,
+          "charge": 0.15975797176361084,
+          "sigma": 0.21397927403450012,
+          "epsilon": 0.11049048602581024
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9935729503631592,
+          "charge": 0.21323010325431824,
+          "sigma": 0.18540774285793304,
+          "epsilon": 0.1073760837316513
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9934845566749573,
+          "charge": 0.27005845308303833,
+          "sigma": 0.14977335929870605,
+          "epsilon": 0.09463707357645035
+        },
+        "id": 8
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 8
+      }
+    ]
+  },
+  "dd16520a3a1413189768": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.046042442321777,
+          "charge": -0.03948291391134262,
+          "sigma": 0.34144049882888794,
+          "epsilon": 0.27262741327285767
+        },
+        "id": 2
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.18246078491211,
+          "charge": -0.5694700479507446,
+          "sigma": 0.3300357460975647,
+          "epsilon": 0.6044726371765137
+        },
+        "id": 1
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0026963949203491,
+          "charge": 0.05182807892560959,
+          "sigma": 0.25492599606513977,
+          "epsilon": 0.11500529944896698
+        },
+        "id": 3
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0042533874511719,
+          "charge": 0.058477453887462616,
+          "sigma": 0.25552690029144287,
+          "epsilon": 0.11136162281036377
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0000799894332886,
+          "charge": 0.14887535572052002,
+          "sigma": 0.2332911491394043,
+          "epsilon": 0.10966315120458603
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9993425607681274,
+          "charge": 0.21143466234207153,
+          "sigma": 0.1940690577030182,
+          "epsilon": 0.09706354886293411
+        },
+        "id": 6
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 6
+      }
+    ]
+  },
+  "fdd886d93bc81a58de29": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.03704833984375,
+          "charge": -0.046452976763248444,
+          "sigma": 0.34074756503105164,
+          "epsilon": 0.2763752341270447
+        },
+        "id": 2
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 14.002175331115723,
+          "charge": -0.3129875361919403,
+          "sigma": 0.33402615785598755,
+          "epsilon": 0.4421434998512268
+        },
+        "id": 1
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0018870830535889,
+          "charge": 0.1080089807510376,
+          "sigma": 0.2416691929101944,
+          "epsilon": 0.11014096438884735
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0026963949203491,
+          "charge": 0.05182807892560959,
+          "sigma": 0.25492599606513977,
+          "epsilon": 0.11500529944896698
+        },
+        "id": 3
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9996516108512878,
+          "charge": 0.057306259870529175,
+          "sigma": 0.2536379098892212,
+          "epsilon": 0.12112350761890411
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9984604120254517,
+          "charge": 0.18635746836662292,
+          "sigma": 0.20341931283473969,
+          "epsilon": 0.10295510292053223
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.998092770576477,
+          "charge": 0.2481887936592102,
+          "sigma": 0.1655113697052002,
+          "epsilon": 0.08993865549564362
+        },
+        "id": 7
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 5
+      }
+    ]
+  },
+  "071db3b1a86967ff0e70": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.03637981414795,
+          "charge": -0.0855633094906807,
+          "sigma": 0.3372858762741089,
+          "epsilon": 0.29788920283317566
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.033063888549805,
+          "charge": -0.028606243431568146,
+          "sigma": 0.342290461063385,
+          "epsilon": 0.2665163278579712
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.031739234924316,
+          "charge": -0.02858790010213852,
+          "sigma": 0.34228071570396423,
+          "epsilon": 0.26649338006973267
+        },
+        "id": 2
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9932916760444641,
+          "charge": 0.15420742332935333,
+          "sigma": 0.22409062087535858,
+          "epsilon": 0.12190235406160355
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0303804874420166,
+          "charge": 0.08884556591510773,
+          "sigma": 0.25024905800819397,
+          "epsilon": 0.12139952182769775
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0010803937911987,
+          "charge": 0.3011511564254761,
+          "sigma": 0.12530097365379333,
+          "epsilon": 0.06929216533899307
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0021436214447021,
+          "charge": 0.35550829768180847,
+          "sigma": 0.09360896050930023,
+          "epsilon": 0.05522339791059494
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.001402735710144,
+          "charge": 0.39164164662361145,
+          "sigma": 0.06528693437576294,
+          "epsilon": 0.04706614837050438
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.997351348400116,
+          "charge": 0.40521320700645447,
+          "sigma": 0.080471932888031,
+          "epsilon": 0.05958597734570503
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9971840977668762,
+          "charge": 0.42180219292640686,
+          "sigma": 0.06063096225261688,
+          "epsilon": 0.05355030670762062
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9999971389770508,
+          "charge": 0.4358961582183838,
+          "sigma": 0.02005675435066223,
+          "epsilon": 0.03524326533079147
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0009280443191528,
+          "charge": 0.43977588415145874,
+          "sigma": 0.007631361484527588,
+          "epsilon": 0.029505696147680283
+        },
+        "id": 14
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0066413879394531,
+          "charge": 0.3867422044277191,
+          "sigma": 0.029498577117919922,
+          "epsilon": 0.02570585161447525
+        },
+        "id": 15
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.947735786437988,
+          "charge": 0.006559558212757111,
+          "sigma": 0.3393801152706146,
+          "epsilon": 0.274078369140625
+        },
+        "id": 3
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.035226821899414,
+          "charge": -0.5117763876914978,
+          "sigma": 0.32756853103637695,
+          "epsilon": 0.6043749451637268
+        },
+        "id": 4
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 14
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 15
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 12
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 4
+      }
+    ]
+  },
+  "de1dedd625a2c400b0bb": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.03637981414795,
+          "charge": -0.0855633094906807,
+          "sigma": 0.3372858762741089,
+          "epsilon": 0.29788920283317566
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.033835411071777,
+          "charge": -0.028616927564144135,
+          "sigma": 0.34229612350463867,
+          "epsilon": 0.26652970910072327
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.047407150268555,
+          "charge": -0.0685625895857811,
+          "sigma": 0.33888256549835205,
+          "epsilon": 0.2886417806148529
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0012675523757935,
+          "charge": 0.17140643298625946,
+          "sigma": 0.2201957255601883,
+          "epsilon": 0.10218332707881927
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0303804874420166,
+          "charge": 0.08884556591510773,
+          "sigma": 0.25024905800819397,
+          "epsilon": 0.12139952182769775
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0010803937911987,
+          "charge": 0.3011511564254761,
+          "sigma": 0.12530097365379333,
+          "epsilon": 0.06929216533899307
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0021436214447021,
+          "charge": 0.35550829768180847,
+          "sigma": 0.09360896050930023,
+          "epsilon": 0.05522339791059494
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.001402735710144,
+          "charge": 0.39164164662361145,
+          "sigma": 0.06528693437576294,
+          "epsilon": 0.04706614837050438
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.997351348400116,
+          "charge": 0.40521320700645447,
+          "sigma": 0.080471932888031,
+          "epsilon": 0.05958597734570503
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9971840977668762,
+          "charge": 0.42180219292640686,
+          "sigma": 0.06063096225261688,
+          "epsilon": 0.05355030670762062
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.003230094909668,
+          "charge": 0.384006142616272,
+          "sigma": 0.06037035584449768,
+          "epsilon": 0.042037609964609146
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.004015326499939,
+          "charge": 0.38873133063316345,
+          "sigma": 0.0480349063873291,
+          "epsilon": 0.03660428524017334
+        },
+        "id": 14
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0066413879394531,
+          "charge": 0.3867422044277191,
+          "sigma": 0.029498577117919922,
+          "epsilon": 0.02570585161447525
+        },
+        "id": 15
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.947291374206543,
+          "charge": -0.0053108856081962585,
+          "sigma": 0.34017500281333923,
+          "epsilon": 0.2709107995033264
+        },
+        "id": 2
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.050180435180664,
+          "charge": -0.5127609968185425,
+          "sigma": 0.32875245809555054,
+          "epsilon": 0.599065363407135
+        },
+        "id": 3
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 14
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 15
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 12
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 3
+      }
+    ]
+  },
+  "43788200ff89161ef646": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.020069122314453,
+          "charge": -0.02842632681131363,
+          "sigma": 0.3421950340270996,
+          "epsilon": 0.26629096269607544
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.030484199523926,
+          "charge": -0.028570525348186493,
+          "sigma": 0.34227150678634644,
+          "epsilon": 0.26647159457206726
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.039238929748535,
+          "charge": -0.036263607442379,
+          "sigma": 0.34166669845581055,
+          "epsilon": 0.27078986167907715
+        },
+        "id": 3
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.00669527053833,
+          "charge": 0.21056285500526428,
+          "sigma": 0.20395731925964355,
+          "epsilon": 0.08352604508399963
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9935809969902039,
+          "charge": 0.2113490104675293,
+          "sigma": 0.20171687006950378,
+          "epsilon": 0.11200423538684845
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0010803937911987,
+          "charge": 0.3011511564254761,
+          "sigma": 0.12530097365379333,
+          "epsilon": 0.06929216533899307
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0021436214447021,
+          "charge": 0.35550829768180847,
+          "sigma": 0.09360896050930023,
+          "epsilon": 0.05522339791059494
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.001402735710144,
+          "charge": 0.39164164662361145,
+          "sigma": 0.06528693437576294,
+          "epsilon": 0.04706614837050438
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9996204376220703,
+          "charge": 0.40969663858413696,
+          "sigma": 0.05653570592403412,
+          "epsilon": 0.04763369262218475
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9994442462921143,
+          "charge": 0.4264224171638489,
+          "sigma": 0.03659161925315857,
+          "epsilon": 0.041581861674785614
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9993235468864441,
+          "charge": 0.4353228807449341,
+          "sigma": 0.026195049285888672,
+          "epsilon": 0.038481734693050385
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0002683401107788,
+          "charge": 0.4390471875667572,
+          "sigma": 0.013856366276741028,
+          "epsilon": 0.0327455997467041
+        },
+        "id": 14
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0011388063430786,
+          "charge": 0.4360586106777191,
+          "sigma": 0.010686397552490234,
+          "epsilon": 0.030085254460573196
+        },
+        "id": 15
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.982598304748535,
+          "charge": -0.027907542884349823,
+          "sigma": 0.3419199585914612,
+          "epsilon": 0.2656411826610565
+        },
+        "id": 4
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 15.848294258117676,
+          "charge": -0.54167240858078,
+          "sigma": 0.325134813785553,
+          "epsilon": 0.6095151901245117
+        },
+        "id": 5
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 12
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 13
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 14
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 15,
+        "target": 4
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 5
+      }
+    ]
+  },
+  "406523d83b269e1f9eca": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.020069122314453,
+          "charge": -0.02842632681131363,
+          "sigma": 0.3421950340270996,
+          "epsilon": 0.26629096269607544
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.030484199523926,
+          "charge": -0.028570525348186493,
+          "sigma": 0.34227150678634644,
+          "epsilon": 0.26647159457206726
+        },
+        "id": 2
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0053298473358154,
+          "charge": 0.1717803031206131,
+          "sigma": 0.20199695229530334,
+          "epsilon": 0.08806242793798447
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9929389357566833,
+          "charge": 0.17364485561847687,
+          "sigma": 0.2168082445859909,
+          "epsilon": 0.11962951719760895
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0312446355819702,
+          "charge": 0.09510506689548492,
+          "sigma": 0.24007952213287354,
+          "epsilon": 0.11925245821475983
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0021436214447021,
+          "charge": 0.35550829768180847,
+          "sigma": 0.09360896050930023,
+          "epsilon": 0.05522339791059494
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.001402735710144,
+          "charge": 0.39164164662361145,
+          "sigma": 0.06528693437576294,
+          "epsilon": 0.04706614837050438
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0004894733428955,
+          "charge": 0.41640061140060425,
+          "sigma": 0.04100041091442108,
+          "epsilon": 0.04101746901869774
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9994442462921143,
+          "charge": 0.4264224171638489,
+          "sigma": 0.03659161925315857,
+          "epsilon": 0.041581861674785614
+        },
+        "id": 12
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.05231285095215,
+          "charge": -0.5658941268920898,
+          "sigma": 0.32923704385757446,
+          "epsilon": 0.6012395024299622
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9993235468864441,
+          "charge": 0.4353228807449341,
+          "sigma": 0.026195049285888672,
+          "epsilon": 0.038481734693050385
+        },
+        "id": 13
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.969951629638672,
+          "charge": -0.027732454240322113,
+          "sigma": 0.3418271243572235,
+          "epsilon": 0.26542186737060547
+        },
+        "id": 3
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.034217834472656,
+          "charge": -0.5121609568595886,
+          "sigma": 0.327578067779541,
+          "epsilon": 0.6043031215667725
+        },
+        "id": 4
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 12
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 5,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      }
+    ]
+  },
+  "90054b0d27b0d5ecce6f": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.03637981414795,
+          "charge": -0.0855633094906807,
+          "sigma": 0.3372858762741089,
+          "epsilon": 0.29788920283317566
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.034551620483398,
+          "charge": -0.028626836836338043,
+          "sigma": 0.3423013687133789,
+          "epsilon": 0.26654213666915894
+        },
+        "id": 1
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0011374950408936,
+          "charge": 0.16947035491466522,
+          "sigma": 0.22437350451946259,
+          "epsilon": 0.10373903810977936
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.996442973613739,
+          "charge": 0.17971312999725342,
+          "sigma": 0.20771659910678864,
+          "epsilon": 0.10898742824792862
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0312446355819702,
+          "charge": 0.09510506689548492,
+          "sigma": 0.24007952213287354,
+          "epsilon": 0.11925245821475983
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0004894733428955,
+          "charge": 0.41640061140060425,
+          "sigma": 0.04100041091442108,
+          "epsilon": 0.04101746901869774
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0002267360687256,
+          "charge": 0.4337708353996277,
+          "sigma": 0.020927712321281433,
+          "epsilon": 0.035088006407022476
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.000556230545044,
+          "charge": 0.4443320631980896,
+          "sigma": 0.004797160625457764,
+          "epsilon": 0.029301155358552933
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9945090413093567,
+          "charge": 0.3272492587566376,
+          "sigma": 0.13096708059310913,
+          "epsilon": 0.08409710228443146
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9958521127700806,
+          "charge": 0.37125056982040405,
+          "sigma": 0.103641077876091,
+          "epsilon": 0.07117052376270294
+        },
+        "id": 10
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.948265075683594,
+          "charge": 0.00581958144903183,
+          "sigma": 0.3394332230091095,
+          "epsilon": 0.2738926112651825
+        },
+        "id": 3
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.034217834472656,
+          "charge": -0.5121609568595886,
+          "sigma": 0.327578067779541,
+          "epsilon": 0.6043031215667725
+        },
+        "id": 4
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.066009521484375,
+          "charge": -0.5078155994415283,
+          "sigma": 0.3297002613544464,
+          "epsilon": 0.5945290327072144
+        },
+        "id": 2
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 12
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 2
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      }
+    ]
+  },
+  "0fdabf2f0dce2e127a0b": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.038504600524902,
+          "charge": -0.10252013057470322,
+          "sigma": 0.3358056843280792,
+          "epsilon": 0.30724036693573
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9920833706855774,
+          "charge": 0.17702573537826538,
+          "sigma": 0.21750782430171967,
+          "epsilon": 0.12154731154441833
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0009688138961792,
+          "charge": 0.21943873167037964,
+          "sigma": 0.16015711426734924,
+          "epsilon": 0.08357280492782593
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0036993026733398,
+          "charge": 0.3015795350074768,
+          "sigma": 0.1469120979309082,
+          "epsilon": 0.06947428733110428
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9990513920783997,
+          "charge": 0.28995513916015625,
+          "sigma": 0.1483694314956665,
+          "epsilon": 0.08082354068756104
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0338367223739624,
+          "charge": 0.11388354748487473,
+          "sigma": 0.20957085490226746,
+          "epsilon": 0.11281126737594604
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0002267360687256,
+          "charge": 0.4337708353996277,
+          "sigma": 0.020927712321281433,
+          "epsilon": 0.035088006407022476
+        },
+        "id": 12
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.9462308883667,
+          "charge": -0.027404047548770905,
+          "sigma": 0.3416529893875122,
+          "epsilon": 0.2650105357170105
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.974159240722656,
+          "charge": -0.027790717780590057,
+          "sigma": 0.34185802936553955,
+          "epsilon": 0.26549482345581055
+        },
+        "id": 4
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.062702178955078,
+          "charge": -0.5050386786460876,
+          "sigma": 0.3298225700855255,
+          "epsilon": 0.5934661030769348
+        },
+        "id": 2
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.018217086791992,
+          "charge": -0.508407711982727,
+          "sigma": 0.32598763704299927,
+          "epsilon": 0.6114487051963806
+        },
+        "id": 5
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.046236038208008,
+          "charge": -0.5114536881446838,
+          "sigma": 0.32885730266571045,
+          "epsilon": 0.5981863141059875
+        },
+        "id": 3
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 6,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 6,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 6,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 6,
+        "target": 12
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 1,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 4,
+        "target": 3
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 4,
+        "target": 5
+      }
+    ]
+  },
+  "ff7e08bfd64f9d329842": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.03637981414795,
+          "charge": -0.0855633094906807,
+          "sigma": 0.3372858762741089,
+          "epsilon": 0.29788920283317566
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.034551620483398,
+          "charge": -0.028626836836338043,
+          "sigma": 0.3423013687133789,
+          "epsilon": 0.26654213666915894
+        },
+        "id": 1
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0011374950408936,
+          "charge": 0.16947035491466522,
+          "sigma": 0.22437350451946259,
+          "epsilon": 0.10373903810977936
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.996442973613739,
+          "charge": 0.17971312999725342,
+          "sigma": 0.20771659910678864,
+          "epsilon": 0.10898742824792862
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0312446355819702,
+          "charge": 0.09510506689548492,
+          "sigma": 0.24007952213287354,
+          "epsilon": 0.11925245821475983
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0002267360687256,
+          "charge": 0.4337708353996277,
+          "sigma": 0.020927712321281433,
+          "epsilon": 0.035088006407022476
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.000556230545044,
+          "charge": 0.4443320631980896,
+          "sigma": 0.004797160625457764,
+          "epsilon": 0.029301155358552933
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0014070272445679,
+          "charge": 0.4487927556037903,
+          "sigma": -0.007727205753326416,
+          "epsilon": 0.023683320730924606
+        },
+        "id": 14
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.975095748901367,
+          "charge": -0.027803681790828705,
+          "sigma": 0.3418648838996887,
+          "epsilon": 0.26551109552383423
+        },
+        "id": 3
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.06395721435547,
+          "charge": -0.5591850280761719,
+          "sigma": 0.3299296200275421,
+          "epsilon": 0.5976610779762268
+        },
+        "id": 4
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.930420875549316,
+          "charge": -0.28396984934806824,
+          "sigma": 0.335975706577301,
+          "epsilon": 0.42547881603240967
+        },
+        "id": 2
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0042165517807007,
+          "charge": 0.35542142391204834,
+          "sigma": 0.08895477652549744,
+          "epsilon": 0.04932383820414543
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.004936933517456,
+          "charge": 0.3096157908439636,
+          "sigma": 0.13473860919475555,
+          "epsilon": 0.06290552020072937
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0046075582504272,
+          "charge": 0.33627066016197205,
+          "sigma": 0.11027128994464874,
+          "epsilon": 0.05540893226861954
+        },
+        "id": 10
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 12
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 14
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 2
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 11
+      }
+    ]
+  },
+  "16db6412b5c2f16570f1": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.009793281555176,
+          "charge": -0.028284065425395966,
+          "sigma": 0.34211960434913635,
+          "epsilon": 0.2661128044128418
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.020069122314453,
+          "charge": -0.02842632681131363,
+          "sigma": 0.3421950340270996,
+          "epsilon": 0.26629096269607544
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 4,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.030484199523926,
+          "charge": -0.028570525348186493,
+          "sigma": 0.34227150678634644,
+          "epsilon": 0.26647159457206726
+        },
+        "id": 2
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9965934157371521,
+          "charge": 0.15944959223270416,
+          "sigma": 0.21932071447372437,
+          "epsilon": 0.11295822262763977
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9964051842689514,
+          "charge": 0.1787172108888626,
+          "sigma": 0.20777419209480286,
+          "epsilon": 0.1091400533914566
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9985219240188599,
+          "charge": 0.2205110490322113,
+          "sigma": 0.18160495162010193,
+          "epsilon": 0.09493323415517807
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0021436214447021,
+          "charge": 0.35550829768180847,
+          "sigma": 0.09360896050930023,
+          "epsilon": 0.05522339791059494
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.001402735710144,
+          "charge": 0.39164164662361145,
+          "sigma": 0.06528693437576294,
+          "epsilon": 0.04706614837050438
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0004894733428955,
+          "charge": 0.41640061140060425,
+          "sigma": 0.04100041091442108,
+          "epsilon": 0.04101746901869774
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9994442462921143,
+          "charge": 0.4264224171638489,
+          "sigma": 0.03659161925315857,
+          "epsilon": 0.041581861674785614
+        },
+        "id": 12
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.96799087524414,
+          "charge": -0.027705319225788116,
+          "sigma": 0.34181272983551025,
+          "epsilon": 0.2653878629207611
+        },
+        "id": 3
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.0595645904541,
+          "charge": -0.5604071617126465,
+          "sigma": 0.32978400588035583,
+          "epsilon": 0.5982908606529236
+        },
+        "id": 4
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.916391372680664,
+          "charge": -0.3525892496109009,
+          "sigma": 0.3297920525074005,
+          "epsilon": 0.46310025453567505
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0021916627883911,
+          "charge": 0.3814128637313843,
+          "sigma": 0.07201667129993439,
+          "epsilon": 0.04772919416427612
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0029797554016113,
+          "charge": 0.38609012961387634,
+          "sigma": 0.059718772768974304,
+          "epsilon": 0.04230232909321785
+        },
+        "id": 14
+      }
+    ],
+    "links": [
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 9
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 11
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 12
+      },
+      {
+        "type": 2,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": true,
+        "source": 3,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 14
+      }
+    ]
+  },
+  "3717219e285f9590e1d5": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.996172904968262,
+          "charge": -0.09177430719137192,
+          "sigma": 0.33639267086982727,
+          "epsilon": 0.30091583728790283
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.9814453125,
+          "charge": -0.04859255999326706,
+          "sigma": 0.3400822877883911,
+          "epsilon": 0.277011901140213
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.001725196838379,
+          "charge": -0.07277084141969681,
+          "sigma": 0.3381194472312927,
+          "epsilon": 0.29051318764686584
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.019274711608887,
+          "charge": -0.09484649449586868,
+          "sigma": 0.33631905913352966,
+          "epsilon": 0.30283093452453613
+        },
+        "id": 3
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.034465789794922,
+          "charge": -0.11477022618055344,
+          "sigma": 0.33468863368034363,
+          "epsilon": 0.31394171714782715
+        },
+        "id": 4
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.06198501586914,
+          "charge": -0.17952173948287964,
+          "sigma": 0.3292025923728943,
+          "epsilon": 0.3498387932777405
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0016183853149414,
+          "charge": 0.18833264708518982,
+          "sigma": 0.2054189145565033,
+          "epsilon": 0.0963902622461319
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9983437657356262,
+          "charge": 0.23594412207603455,
+          "sigma": 0.17850667238235474,
+          "epsilon": 0.09365028142929077
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9980893731117249,
+          "charge": 0.2924306094646454,
+          "sigma": 0.14844971895217896,
+          "epsilon": 0.08285311609506607
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9983410835266113,
+          "charge": 0.34209203720092773,
+          "sigma": 0.12262682616710663,
+          "epsilon": 0.07247209548950195
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9985659718513489,
+          "charge": 0.38151463866233826,
+          "sigma": 0.10098548233509064,
+          "epsilon": 0.06385704129934311
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9972404837608337,
+          "charge": 0.39806634187698364,
+          "sigma": 0.09048789739608765,
+          "epsilon": 0.06300203502178192
+        },
+        "id": 11
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 6
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 7
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 8
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 9
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 11
+      }
+    ]
+  },
+  "ed8f9afed9c2ff45825e": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.996172904968262,
+          "charge": -0.09177430719137192,
+          "sigma": 0.33639267086982727,
+          "epsilon": 0.30091583728790283
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.041336059570312,
+          "charge": -0.13431614637374878,
+          "sigma": 0.33302029967308044,
+          "epsilon": 0.3247636556625366
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0293437242507935,
+          "charge": 0.08506149053573608,
+          "sigma": 0.25388631224632263,
+          "epsilon": 0.11904002726078033
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9830003380775452,
+          "charge": 0.38032183051109314,
+          "sigma": 0.0441998690366745,
+          "epsilon": 0.08268149197101593
+        },
+        "id": 9
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.987095832824707,
+          "charge": -0.40353870391845703,
+          "sigma": 0.3258954882621765,
+          "epsilon": 0.49182265996932983
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.991166114807129,
+          "charge": -0.008387230336666107,
+          "sigma": 0.34066301584243774,
+          "epsilon": 0.2710148096084595
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.017608642578125,
+          "charge": 0.00912390649318695,
+          "sigma": 0.33711034059524536,
+          "epsilon": 0.28958576917648315
+        },
+        "id": 3
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0024936199188232,
+          "charge": 0.22593066096305847,
+          "sigma": 0.17899301648139954,
+          "epsilon": 0.08509238064289093
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.994740903377533,
+          "charge": 0.1600501835346222,
+          "sigma": 0.25098660588264465,
+          "epsilon": 0.12587116658687592
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9997979998588562,
+          "charge": 0.3178025484085083,
+          "sigma": 0.14055606722831726,
+          "epsilon": 0.07551538944244385
+        },
+        "id": 8
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 9
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 8
+      }
+    ]
+  },
+  "de4b29fd970ca9095964": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.996172904968262,
+          "charge": -0.09177430719137192,
+          "sigma": 0.33639267086982727,
+          "epsilon": 0.30091583728790283
+        },
+        "id": 0
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9994762539863586,
+          "charge": 0.09000486135482788,
+          "sigma": 0.2533658444881439,
+          "epsilon": 0.11971038579940796
+        },
+        "id": 5
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.94207763671875,
+          "charge": -0.37492358684539795,
+          "sigma": 0.32321950793266296,
+          "epsilon": 0.5009256601333618
+        },
+        "id": 2
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 14.012412071228027,
+          "charge": -0.41426825523376465,
+          "sigma": 0.32516419887542725,
+          "epsilon": 0.4979727268218994
+        },
+        "id": 3
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.049676895141602,
+          "charge": -0.13944360613822937,
+          "sigma": 0.3326386511325836,
+          "epsilon": 0.32766610383987427
+        },
+        "id": 4
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.991166114807129,
+          "charge": -0.008387230336666107,
+          "sigma": 0.34066301584243774,
+          "epsilon": 0.2710148096084595
+        },
+        "id": 1
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9981560111045837,
+          "charge": 0.21066856384277344,
+          "sigma": 0.19262054562568665,
+          "epsilon": 0.0993371307849884
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.002713680267334,
+          "charge": 0.32932865619659424,
+          "sigma": 0.13257959485054016,
+          "epsilon": 0.06620338559150696
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9955167770385742,
+          "charge": 0.16135235130786896,
+          "sigma": 0.23956309258937836,
+          "epsilon": 0.12089356780052185
+        },
+        "id": 6
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 7
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 6
+      }
+    ]
+  },
+  "0cafa767a81a26b3b9bb": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.016962051391602,
+          "charge": -0.09555133432149887,
+          "sigma": 0.33623698353767395,
+          "epsilon": 0.3031963109970093
+        },
+        "id": 3
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.997069358825684,
+          "charge": -0.09357047826051712,
+          "sigma": 0.33624163269996643,
+          "epsilon": 0.30191290378570557
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.92696475982666,
+          "charge": -0.027137301862239838,
+          "sigma": 0.3415115475654602,
+          "epsilon": 0.26467639207839966
+        },
+        "id": 0
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.94207763671875,
+          "charge": -0.37492358684539795,
+          "sigma": 0.32321950793266296,
+          "epsilon": 0.5009256601333618
+        },
+        "id": 2
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 14.034347534179688,
+          "charge": -0.47925132513046265,
+          "sigma": 0.3196098804473877,
+          "epsilon": 0.5339429378509521
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9974522590637207,
+          "charge": 0.29060640931129456,
+          "sigma": 0.15430901944637299,
+          "epsilon": 0.08599875867366791
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.001281976699829,
+          "charge": 0.24961134791374207,
+          "sigma": 0.1712455451488495,
+          "epsilon": 0.08437450975179672
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0023986101150513,
+          "charge": 0.20946091413497925,
+          "sigma": 0.20469649136066437,
+          "epsilon": 0.0933389738202095
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9989503026008606,
+          "charge": 0.13862797617912292,
+          "sigma": 0.2528519928455353,
+          "epsilon": 0.11816796660423279
+        },
+        "id": 5
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 2
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 0
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 6
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 8
+      }
+    ]
+  },
+  "ff0e584673ca766534f3": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 16,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 32.329471588134766,
+          "charge": -0.7165921926498413,
+          "sigma": 0.36237967014312744,
+          "epsilon": 1.3301594257354736
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.027854919433594,
+          "charge": -0.07539661973714828,
+          "sigma": 0.3381112217903137,
+          "epsilon": 0.2922120690345764
+        },
+        "id": 3
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.9429931640625,
+          "charge": -0.3726755380630493,
+          "sigma": 0.32251930236816406,
+          "epsilon": 0.5044552087783813
+        },
+        "id": 4
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.96962833404541,
+          "charge": -0.027727968990802765,
+          "sigma": 0.3418247401714325,
+          "epsilon": 0.2654162645339966
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.982182502746582,
+          "charge": -0.050906457006931305,
+          "sigma": 0.3398841321468353,
+          "epsilon": 0.27829229831695557
+        },
+        "id": 1
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9988678693771362,
+          "charge": 0.3390464186668396,
+          "sigma": 0.15279221534729004,
+          "epsilon": 0.07987160235643387
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9981307983398438,
+          "charge": 0.10727834701538086,
+          "sigma": 0.2527058720588684,
+          "epsilon": 0.12160414457321167
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9990617632865906,
+          "charge": 0.17332519590854645,
+          "sigma": 0.2122146487236023,
+          "epsilon": 0.10475887358188629
+        },
+        "id": 6
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 7
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 0
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 6
+      }
+    ]
+  },
+  "2dc73577ad261b251b37": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.996172904968262,
+          "charge": -0.09177430719137192,
+          "sigma": 0.33639267086982727,
+          "epsilon": 0.30091583728790283
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.041336059570312,
+          "charge": -0.13431614637374878,
+          "sigma": 0.33302029967308044,
+          "epsilon": 0.3247636556625366
+        },
+        "id": 4
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0293437242507935,
+          "charge": 0.08506149053573608,
+          "sigma": 0.25388631224632263,
+          "epsilon": 0.11904002726078033
+        },
+        "id": 5
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.984221339225769,
+          "charge": 0.3375420570373535,
+          "sigma": 0.0821949690580368,
+          "epsilon": 0.09281958639621735
+        },
+        "id": 8
+      },
+      {
+        "atomic": 8,
+        "valence": 2,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 16.053653717041016,
+          "charge": -0.6543152332305908,
+          "sigma": 0.32143524289131165,
+          "epsilon": 0.6499062776565552
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.991166114807129,
+          "charge": -0.008387230336666107,
+          "sigma": 0.34066301584243774,
+          "epsilon": 0.2710148096084595
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.017608642578125,
+          "charge": 0.00912390649318695,
+          "sigma": 0.33711034059524536,
+          "epsilon": 0.28958576917648315
+        },
+        "id": 3
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.995347261428833,
+          "charge": 0.1604752242565155,
+          "sigma": 0.2461879402399063,
+          "epsilon": 0.1231633871793747
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0005202293395996,
+          "charge": 0.28671225905418396,
+          "sigma": 0.1671772450208664,
+          "epsilon": 0.0829739049077034
+        },
+        "id": 7
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 4
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 8
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 3,
+        "target": 7
+      }
+    ]
+  },
+  "d83f7fef7df28b5fc448": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.996172904968262,
+          "charge": -0.09177430719137192,
+          "sigma": 0.33639267086982727,
+          "epsilon": 0.30091583728790283
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.9814453125,
+          "charge": -0.04859255999326706,
+          "sigma": 0.3400822877883911,
+          "epsilon": 0.277011901140213
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.001725196838379,
+          "charge": -0.07277084141969681,
+          "sigma": 0.3381194472312927,
+          "epsilon": 0.29051318764686584
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.019274711608887,
+          "charge": -0.09484649449586868,
+          "sigma": 0.33631905913352966,
+          "epsilon": 0.30283093452453613
+        },
+        "id": 3
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.034465789794922,
+          "charge": -0.11477022618055344,
+          "sigma": 0.33468863368034363,
+          "epsilon": 0.31394171714782715
+        },
+        "id": 4
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.06198501586914,
+          "charge": -0.17952173948287964,
+          "sigma": 0.3292025923728943,
+          "epsilon": 0.3498387932777405
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.045662879943848,
+          "charge": -0.06394719332456589,
+          "sigma": 0.3268589377403259,
+          "epsilon": 0.351237416267395
+        },
+        "id": 6
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.977676510810852,
+          "charge": 0.3331550359725952,
+          "sigma": 0.088205486536026,
+          "epsilon": 0.1092715635895729
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9811155200004578,
+          "charge": 0.3533853590488434,
+          "sigma": 0.08848771452903748,
+          "epsilon": 0.10063926875591278
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9996781349182129,
+          "charge": 0.41723358631134033,
+          "sigma": 0.04644818603992462,
+          "epsilon": 0.04429519921541214
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9990622997283936,
+          "charge": 0.4266473948955536,
+          "sigma": 0.03936965763568878,
+          "epsilon": 0.04319321736693382
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9989547729492188,
+          "charge": 0.43594691157341003,
+          "sigma": 0.02835768461227417,
+          "epsilon": 0.03987114876508713
+        },
+        "id": 13
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.945464134216309,
+          "charge": -0.31237560510635376,
+          "sigma": 0.3060360848903656,
+          "epsilon": 0.5858603119850159
+        },
+        "id": 8
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.038520812988281,
+          "charge": 0.07519958913326263,
+          "sigma": 0.32313159108161926,
+          "epsilon": 0.3583574891090393
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0036568641662598,
+          "charge": 0.3806224763393402,
+          "sigma": 0.061266154050827026,
+          "epsilon": 0.04151766747236252
+        },
+        "id": 15
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0030035972595215,
+          "charge": 0.3788701593875885,
+          "sigma": 0.06874650716781616,
+          "epsilon": 0.04514726251363754
+        },
+        "id": 14
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 9
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 10
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 11
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 8
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 5
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 12
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 6,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 6,
+        "target": 13
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 8,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 8,
+        "target": 15
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 7,
+        "target": 14
+      }
+    ]
+  },
+  "638cdbc8133c45b484de": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.996172904968262,
+          "charge": -0.09177430719137192,
+          "sigma": 0.33639267086982727,
+          "epsilon": 0.30091583728790283
+        },
+        "id": 0
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.9814453125,
+          "charge": -0.04859255999326706,
+          "sigma": 0.3400822877883911,
+          "epsilon": 0.277011901140213
+        },
+        "id": 1
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.001725196838379,
+          "charge": -0.07277084141969681,
+          "sigma": 0.3381194472312927,
+          "epsilon": 0.29051318764686584
+        },
+        "id": 2
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.019274711608887,
+          "charge": -0.09484649449586868,
+          "sigma": 0.33631905913352966,
+          "epsilon": 0.30283093452453613
+        },
+        "id": 3
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.034465789794922,
+          "charge": -0.11477022618055344,
+          "sigma": 0.33468863368034363,
+          "epsilon": 0.31394171714782715
+        },
+        "id": 4
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.06198501586914,
+          "charge": -0.17952173948287964,
+          "sigma": 0.3292025923728943,
+          "epsilon": 0.3498387932777405
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.045662879943848,
+          "charge": -0.06394719332456589,
+          "sigma": 0.3268589377403259,
+          "epsilon": 0.351237416267395
+        },
+        "id": 6
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.041316032409668,
+          "charge": -0.0035235658288002014,
+          "sigma": 0.3215363919734955,
+          "epsilon": 0.3736966848373413
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9776000380516052,
+          "charge": 0.3671894371509552,
+          "sigma": 0.06378068029880524,
+          "epsilon": 0.10083501040935516
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9817638397216797,
+          "charge": 0.3860127925872803,
+          "sigma": 0.06508104503154755,
+          "epsilon": 0.09094991534948349
+        },
+        "id": 11
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9994232654571533,
+          "charge": 0.43476781249046326,
+          "sigma": 0.026103362441062927,
+          "epsilon": 0.03826384246349335
+        },
+        "id": 12
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9994460344314575,
+          "charge": 0.437045693397522,
+          "sigma": 0.0230121910572052,
+          "epsilon": 0.03723128139972687
+        },
+        "id": 13
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9998407959938049,
+          "charge": 0.44041720032691956,
+          "sigma": 0.015538349747657776,
+          "epsilon": 0.03409229964017868
+        },
+        "id": 14
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9998947978019714,
+          "charge": 0.4274546504020691,
+          "sigma": 0.03165742754936218,
+          "epsilon": 0.03915052115917206
+        },
+        "id": 15
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.945140838623047,
+          "charge": -0.2811810374259949,
+          "sigma": 0.3021700978279114,
+          "epsilon": 0.6034274101257324
+        },
+        "id": 9
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.041075706481934,
+          "charge": 0.1262008398771286,
+          "sigma": 0.3190874457359314,
+          "epsilon": 0.3753018379211426
+        },
+        "id": 8
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 1.0043741464614868,
+          "charge": 0.37766513228416443,
+          "sigma": 0.05928599834442139,
+          "epsilon": 0.03952786698937416
+        },
+        "id": 16
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 1
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 0,
+        "target": 5
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 10
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 1,
+        "target": 11
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 2,
+        "target": 12
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 9
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 5
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 4,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 5,
+        "target": 13
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 6,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 6,
+        "target": 14
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 7,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 7,
+        "target": 15
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 9,
+        "target": 8
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 8,
+        "target": 16
+      }
+    ]
+  },
+  "8501639631e274bdddcf": {
+    "directed": false,
+    "multigraph": false,
+    "graph": {},
+    "nodes": [
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.960760116577148,
+          "charge": -0.027605198323726654,
+          "sigma": 0.34175965189933777,
+          "epsilon": 0.2652624845504761
+        },
+        "id": 1
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.944823265075684,
+          "charge": -0.36817947030067444,
+          "sigma": 0.32111889123916626,
+          "epsilon": 0.5115142464637756
+        },
+        "id": 8
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.045708656311035,
+          "charge": -0.012007154524326324,
+          "sigma": 0.3231552839279175,
+          "epsilon": 0.3661767244338989
+        },
+        "id": 7
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9785180687904358,
+          "charge": 0.3769022226333618,
+          "sigma": 0.08691830933094025,
+          "epsilon": 0.10473205894231796
+        },
+        "id": 11
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.991279602050781,
+          "charge": -0.028027750551700592,
+          "sigma": 0.34198370575904846,
+          "epsilon": 0.26579171419143677
+        },
+        "id": 2
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 13.94390869140625,
+          "charge": -0.37042751908302307,
+          "sigma": 0.32181909680366516,
+          "epsilon": 0.5079846978187561
+        },
+        "id": 6
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 14.017716407775879,
+          "charge": -0.4331030249595642,
+          "sigma": 0.32354530692100525,
+          "epsilon": 0.5083881616592407
+        },
+        "id": 3
+      },
+      {
+        "atomic": 7,
+        "valence": 3,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 14.026881217956543,
+          "charge": -0.46268874406814575,
+          "sigma": 0.32100948691368103,
+          "epsilon": 0.5247567892074585
+        },
+        "id": 5
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 12.035327911376953,
+          "charge": -0.10397607833147049,
+          "sigma": 0.3356498181819916,
+          "epsilon": 0.3080105781555176
+        },
+        "id": 4
+      },
+      {
+        "atomic": 6,
+        "valence": 4,
+        "formal_charge": 0,
+        "aromatic": true,
+        "hybridization": 3,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 11.990235328674316,
+          "charge": 0.0033651739358901978,
+          "sigma": 0.3398672342300415,
+          "epsilon": 0.2741219997406006
+        },
+        "id": 0
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9984204173088074,
+          "charge": 0.37345513701438904,
+          "sigma": 0.09510990977287292,
+          "epsilon": 0.06296820193529129
+        },
+        "id": 10
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9987484216690063,
+          "charge": 0.35985657572746277,
+          "sigma": 0.12717734277248383,
+          "epsilon": 0.07189711928367615
+        },
+        "id": 9
+      },
+      {
+        "atomic": 1,
+        "valence": 1,
+        "formal_charge": 0,
+        "aromatic": false,
+        "hybridization": 0,
+        "radical_electrons": 0,
+        "param": {
+          "mass": 0.9977434277534485,
+          "charge": 0.4216814935207367,
+          "sigma": 0.05629616975784302,
+          "epsilon": 0.05110527575016022
+        },
+        "id": 12
+      }
+    ],
+    "links": [
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 0
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 2
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 1,
+        "target": 8
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 8,
+        "target": 7
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 8,
+        "target": 12
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 7,
+        "target": 6
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 7,
+        "target": 11
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 3
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 2,
+        "target": 6
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 3,
+        "target": 4
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 5,
+        "target": 4
+      },
+      {
+        "type": 12,
+        "stereo": 0,
+        "aromatic": true,
+        "conjugated": true,
+        "source": 5,
+        "target": 0
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 4,
+        "target": 10
+      },
+      {
+        "type": 1,
+        "stereo": 0,
+        "aromatic": false,
+        "conjugated": false,
+        "source": 0,
+        "target": 9
+      }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 import networkx as nx
-import archive.helper as helper
+import helper as helper
 
 train_data = helper.load_data_from_file("data.json")
 

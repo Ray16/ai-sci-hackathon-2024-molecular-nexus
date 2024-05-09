@@ -1,6 +1,6 @@
 import torch
 from mace_layer import MACE_layer
-from archive.helper import load_data_from_file
+from helper import load_data_from_file
 
 train_data = load_data_from_file('data.json')
 
